@@ -27,7 +27,10 @@ isi-school-exercises/
 ├── Programmation Python Avancée/
 │   └── README.md
 ├── Network protocols and services/
-│   └── README.md
+│   ├── README.md
+│   ├── labs/
+│   ├── notes/
+│   └── assignments/
 └── ...
 ```
 
